@@ -1,0 +1,332 @@
+.slide-169-1-child,
+.slide-169-1-item {
+  position: absolute;
+  top: 1099px;
+  left: calc(50% - 1168px);
+  border-radius: 50%;
+  background-color: var(--color-khaki-100);
+  filter: blur(398.3px);
+  width: 1026px;
+  height: 963px;
+}
+.slide-169-1-item {
+  top: -347px;
+  left: calc(50% - 1147px);
+}
+.slide-169-1-inner {
+  position: absolute;
+  top: 390px;
+  left: calc(50% + 278px);
+  border-radius: 50%;
+  background-color: #ffaf97;
+  filter: blur(497.2px);
+  width: 1084px;
+  height: 1027px;
+}
+.featured-on,
+.play-and-win {
+  position: absolute;
+  display: inline-block;
+}
+.featured-on {
+  top: 959px;
+  left: calc(50% - 540px);
+  letter-spacing: 0.1em;
+  line-height: 27.5px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-white);
+  width: 373px;
+}
+.play-and-win {
+  top: 262px;
+  left: calc(50% - 611px);
+  font-size: var(--h1-size);
+  line-height: 110%;
+  text-transform: capitalize;
+  width: 670px;
+}
+.denignma {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: calc(50% - 610.5px);
+  font-size: var(--sub-header-size);
+  line-height: 27.5px;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: var(--sub-header);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.about,
+.denignma,
+.top {
+  position: absolute;
+}
+.about {
+  top: 0;
+  left: calc(50% + 539.5px);
+  line-height: 27.5px;
+  text-transform: uppercase;
+}
+.top {
+  top: 42px;
+  left: calc(50% - 609px);
+  width: 1221px;
+  height: 28px;
+}
+.denigma,
+.home,
+.play-lotterie {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 116px;
+  height: 69px;
+}
+.home,
+.play-lotterie {
+  left: 318px;
+}
+.play-lotterie {
+  top: 1px;
+  left: 636px;
+  width: 169px;
+}
+.facebook-icon,
+.group-icon,
+.twitter-icon {
+  position: absolute;
+  bottom: 16px;
+  left: 954px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.group-icon,
+.twitter-icon {
+  left: 1006px;
+}
+.group-icon {
+  height: 51.43%;
+  width: 3.29%;
+  top: 25.71%;
+  right: 0;
+  bottom: 22.86%;
+  left: 96.71%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.bottom {
+  position: absolute;
+  top: 2082px;
+  left: 352px;
+  width: 1094px;
+  height: 70px;
+  font-size: var(--font-size-3xl);
+}
+.logos-child {
+  top: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-lightcoral);
+  width: 586px;
+  height: 82px;
+}
+.current-lotterie,
+.logos,
+.logos-child {
+  position: absolute;
+  left: calc(50% - 293px);
+}
+.logos {
+  top: 0;
+  width: 586px;
+  height: 82px;
+}
+.current-lotterie {
+  top: 13px;
+  line-height: 110%;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 525px;
+}
+.logos-group,
+.logos-parent {
+  position: absolute;
+  top: 982px;
+  left: calc(50% - 610px);
+  width: 586px;
+  height: 82px;
+  font-size: var(--h2-size);
+}
+.logos-group {
+  top: 1530px;
+}
+.cryptocurrency-1-icon {
+  position: absolute;
+  top: 121px;
+  left: 875px;
+  width: 863px;
+  height: 863.01px;
+  object-fit: cover;
+}
+.lotterie-child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 186px);
+  border-radius: var(--br-lg);
+  background-color: var(--color-khaki-200);
+  width: 372px;
+  height: 390px;
+}
+.button-child,
+.enter {
+  top: 0;
+  width: 173.32px;
+  height: 56px;
+}
+.button-child {
+  position: absolute;
+  left: calc(50% - 87px);
+  border-radius: var(--br-6xl);
+}
+.enter {
+  left: calc(50% - 86.32px);
+  font-size: var(--sub-header-size);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  display: flex;
+  font-family: var(--sub-header);
+  color: var(--color-white);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.button,
+.enter,
+.eth {
+  position: absolute;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 321px;
+  left: calc(50% - 174px);
+  width: 174px;
+  height: 56px;
+}
+.eth {
+  top: 335px;
+  left: calc(50% + 80px);
+  letter-spacing: 0.1em;
+  line-height: 27.5px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  width: 99px;
+}
+.unsplashpvoepplw818-icon {
+  position: absolute;
+  top: 33px;
+  left: 66px;
+  border-radius: var(--br-xs);
+  width: 240.95px;
+  height: 265.04px;
+  object-fit: cover;
+}
+.lotterie {
+  position: absolute;
+  top: 1102px;
+  left: calc(50% - 608px);
+  width: 372px;
+  height: 390px;
+}
+.button-item {
+  top: 0;
+  left: calc(50% - 106px);
+  border-radius: var(--br-6xl);
+  width: 211.17px;
+}
+.button-item,
+.button1,
+.discover {
+  position: absolute;
+  height: 56px;
+}
+.discover {
+  top: 0;
+  left: calc(50% - 105.17px);
+  font-size: var(--sub-header-size);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  display: flex;
+  font-family: var(--sub-header);
+  color: var(--color-white);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 211.17px;
+}
+.button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 655px;
+  left: calc(50% - 399px);
+  width: 212px;
+}
+.lotterie1,
+.lotterie2 {
+  position: absolute;
+  top: 1102px;
+  left: calc(50% - 186px);
+  width: 372px;
+  height: 390px;
+}
+.lotterie2 {
+  top: 1650px;
+  left: calc(50% - 608px);
+}
+.dollar-1-icon {
+  position: absolute;
+  top: 1598px;
+  left: 1022px;
+  width: 584px;
+  height: 554px;
+  object-fit: cover;
+}
+.denigma-is-the {
+  position: absolute;
+  top: 502px;
+  left: calc(50% - 612px);
+  letter-spacing: 0.1em;
+  line-height: 27.5px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #020000;
+  display: inline-block;
+  width: 586px;
+  height: 103px;
+}
+.slide-169-1 {
+  position: relative;
+  background-color: #fffbf6;
+  width: 100%;
+  height: 2152px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--sub-header-size);
+  color: var(--color-black);
+  font-family: var(--sub-header);
+}
